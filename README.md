@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **druizatuesta@gmail.com**
 
-- ⚡ Fun fact **I can say the firs 721 Pokemon in Pokedex order**
+- ⚡ Fun fact **I can say the first 721 Pokemon in Pokedex order**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

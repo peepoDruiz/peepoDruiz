@@ -5,13 +5,13 @@
 
 - 📫 How to reach me **druizatuesta@gmail.com**
 
-- ⚡ Fun fact **I can say the first 721 Pokemon in Pokedex order**
+- ⚡ Fun fact **I can say the first 1025 Pokemon in Pokedex order**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/druiz__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="druiz__" height="30" width="40" /></a>
 <a href="https://instagram.com/_druiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_druiz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/peepodruiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="peepodruiz" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@peepoDruiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="peepodruiz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
